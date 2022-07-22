@@ -18,46 +18,41 @@ $matches = [
         "homeTeam" => "Olimpia Milano",
         "awayTeam" => "Dinamo Sassari",
         "homeTeamScore" => 75,
-        "awayTeamScore" => 60,
-
+        "awayTeamScore" => 60
     ],
     [
         "homeTeam" => "Universo Treviso",
         "awayTeam" => "Venezia",
         "homeTeamScore" => 100,
-        "awayTeamScore" => 105,
-
+        "awayTeamScore" => 105
     ],
     [
         "homeTeam" => "Trieste",
         "awayTeam" => "Brindisi",
         "homeTeamScore" => 77,
-        "awayTeamScore" => 79,
-
+        "awayTeamScore" => 79
     ],
     [
         "homeTeam" => "Virtus Bologna",
         "awayTeam" => "Trento",
         "homeTeamScore" => 91,
-        "awayTeamScore" => 72,
-
+        "awayTeamScore" => 72
     ],
     [
         "homeTeam" => "Cantù",
         "awayTeam" => "Reggiana",
         "homeTeamScore" => 106,
-        "awayTeamScore" => 101,
-
+        "awayTeamScore" => 101
     ],
     [
         "homeTeam" => "Cremona",
         "awayTeam" => "Brescia",
         "homeTeamScore" => 89,
-        "awayTeamScore" => 94,
-
+        "awayTeamScore" => 94
     ]
 ]
 ?>
+
 
 <ul>
     <!-- Ciclo for per stampare gli elementi della lista -->
