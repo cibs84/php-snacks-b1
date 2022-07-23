@@ -33,7 +33,6 @@ Prendere un paragrafo abbastanza lungo, contenente diverse frasi. Prendere il pa
 <?php for($i = 0; $i < count($paragraphExploded); $i++) {
         $thisSentence = $paragraphExploded[$i];
         $thisSentence = trim($thisSentence, " \n\r\t\v\x00"); 
-        str_replace(array('.', ' ', "\n", "\t", "\r", "\&#13;", "\&#10;"), '', $thisSentence); 
 ?>
     
     <p><?php echo $thisSentence; ?>.</p>
